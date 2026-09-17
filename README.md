@@ -1,5 +1,5 @@
  💫 About Me:
-- 💼 Currently Working As a Frontend Developer .<br>- 🌱 Currently learning Full-Stack Development .<br>- ⚛️ Frontend: HTML, CSS, JavaScript, React, SEO, Core Web Vitals .<br>- 🟢 Backend: Node.js, Express.js, REST APIs .<br>- 🗄️ Database: SQL, PostgreSQL, Mongo DB .<br>- 🛠️ Tools: Git, GitHub, VS Code, Vite, npm, Yarn .<br>- 🤝 Open to collaborating on Web Development Projects .<br>- 💬 I’m currently exploring System Design & Scalable Architecture<br>- 🔍 I love learning how technologies work under the hood .
+ -  💼 Currently Working As a Frontend Developer .<br>- 🌱 Currently learning Full-Stack Development .<br>- ⚛️ Frontend: HTML, CSS, JavaScript, React, SEO, Core Web Vitals .<br>- 🟢 Backend: Node.js, Express.js, REST APIs .<br>- 🗄️ Database: SQL, PostgreSQL, Mongo DB .<br>- 🛠️ Tools: Git, GitHub, VS Code, Vite, npm, Yarn .<br>- 🤝 Open to collaborating on Web Development Projects .<br>- 💬 I’m currently exploring System Design & Scalable Architecture<br>- 🔍 I love learning how technologies work under the hood .
 
 
 ## 🌐 Socials:
